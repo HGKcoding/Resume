@@ -8,9 +8,9 @@
 
 # 个人信息
 * 胡国康/男/1995
-* 本科/郑州大学
+* 本科/郑州大学  
 * 英语：六级
-* 经验：半年
+* 经验：一年
 * 博客：www.huguokang.com
 * Github：https://github.com/HGKcoding
 * 期望职位：初级Web前端
