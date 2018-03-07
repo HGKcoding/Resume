@@ -28,4 +28,4 @@
 ---
 
 # 作品展示
-*  
+* [基于vue2.0的移动端音乐APP](https://github.com/HGKcoding/vue-music)
