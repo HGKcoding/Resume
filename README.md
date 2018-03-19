@@ -13,7 +13,7 @@
 * 博客：www.huguokang.com
 * Github：https://github.com/HGKcoding
 * 期望职位：Web前端
-* 期望薪资：4k~5k
+* 期望薪资：4k~6k
 * 期望城市：南京
 
 ---
