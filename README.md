@@ -20,7 +20,7 @@
 
 # 技能描述
 * 掌握 HTML + CSS，熟悉常见布局，了解 HTML5 和 CSS3 的新规范
-* 熟悉 JavaScript，可以写常见的交互，了解 ES6 
+* 熟悉 JavaScript，了解 ES6 
 * 了解 Vue(正在通过实际项目加深对官方文档的理解)
 * 熟悉 Git 的基本操作，熟悉 Github 代码托管平台，熟练使用 VScode 编辑器，能够使用 Markdown 进行文档撰写
 * 对前端有较深的兴趣，愿意在前端方向长期深入发展
