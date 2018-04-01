@@ -10,7 +10,7 @@
 * 胡国康/男/1995
 * 本科/郑州大学
 * 英语水平：CET-6
-* 博客：www.huguokang.com
+* 博客：http://huguokang.com
 * Github：https://github.com/HGKcoding
 * 期望职位：Web前端
 * 期望薪资：4k~6k
