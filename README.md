@@ -30,5 +30,5 @@
 
 # 作品展示
 * [各种小demo(包括CSS动画、原生JS，更新中...)](https://github.com/HGKcoding/demo)
-* [仿一加官网首页(静态)](https://github.com/HGKcoding/oneplus)
+* [仿一加官网首页(静态)](http://huguokang.com/oneplus/)
 * [基于vue2.0的移动端音乐APP(未完成)](https://github.com/HGKcoding/vue-music)
