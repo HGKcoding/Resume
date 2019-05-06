@@ -23,6 +23,7 @@
 * 熟悉 Vue 及其生态，包括vuex、vue-router、axios、ElementUI、Ant-design-vue等
 * 掌握 组件化、模块化、css的预处理和后处理等工程化的概念，了解 Webpack 的基本配置
 * 掌握 Git 的基本操作
+* 了解微信公众号和小程序的开发
 ---
 
 # 项目经历
