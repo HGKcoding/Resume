@@ -18,12 +18,11 @@
 ---
 
 # 技能描述
-* 掌握常见的页面布局，熟悉flex布局，使用过Bootstrap、Iview、ElementUI等css组件库
+* 掌握常见的页面布局，熟悉flex布局
 * 熟悉 JavaScript，掌握常用的ES6新语法
-* 熟悉 Vue 全家桶
+* 熟悉 Vue 及其生态，包括vuex、vue-router、ElementUI和Ant-design-vue等组件库
+* 掌握 组件化、模块化、css的预处理和后处理等工程化的概念，了解 Webpack 的基本配置
 * 掌握 Git 的基本操作
-* 了解 Webpack 的基本配置
-* 了解 typescript
 ---
 
 # 项目经历
