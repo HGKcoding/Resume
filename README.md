@@ -27,6 +27,8 @@
 ---
 
 # 项目经历
+南京懿尚软件科技有限公司：
+
 1. 南瓜信服微信公众号  
 
 技术栈：vue/vue-router/axios/stylus/flexible.js  
