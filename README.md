@@ -20,9 +20,9 @@
 # 技能描述
 * 熟悉 HTML，CSS 和 JavaScript
 * 熟练掌握 Vue 及其生态
-* 熟悉前端组件化、模块化、工程化
+* 掌握 React、TypeScript
 * 掌握微信小程序和网页的开发
-* 掌握 TypeScript
+* 熟悉前端组件化、模块化、工程化
 ---
 
 # 工作经历
